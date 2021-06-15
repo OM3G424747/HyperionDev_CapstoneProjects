@@ -7,7 +7,7 @@ This project takes on the role of two different financial calculators:
 It allows the user to select either of the two calculators at the start by entering either "bond" or "investment".
 The user input is not case sensative.
 
-###### investment calculator
+## investment calculator
 
 The "investment calculator" requests the following information from the user:
 
@@ -18,7 +18,7 @@ The "investment calculator" requests the following information from the user:
 
 The results are then calculated and displayed for the user
 
-###### home loan repayment calculator
+## home loan repayment calculator
 
 The "home loan repayment calculator" requests the following information from the user:
 1) - The present value of the house.
