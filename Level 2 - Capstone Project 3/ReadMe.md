@@ -1,4 +1,4 @@
-# hyperionDev Capstone Project 1 - Level 2 :clipboard: :house:
+# hyperionDev Capstone Project 2 - Level 2 :clipboard: :house:
 
 ## Poised project management system
 
