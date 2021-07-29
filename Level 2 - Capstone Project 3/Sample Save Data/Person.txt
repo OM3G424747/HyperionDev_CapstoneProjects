@@ -1,0 +1,11 @@
+Architect|Contractor|Customer|Contractor|Contractor|Customer|Customer|Architect|Contractor|
+Jill|Bobby|Rich|Bill|Phill|Candy|Karen|John|Timothy |
+Andreson|LeBuilder|Veryvery|"The Tool Man" - Smith|Goodwill|Smith|Van Dyk|Snow|Lucas |
++27725647895|+27824165599|+27727892546|+27824242669|+27785462525|+27767806699|+27761234666|+72284567895|+27767805566|
+jill.drawhouse@gmail.co.za|bob.thebuilder@yesican.net|ihavealotofmoneytospend@gmail.com|this.email@outlook.com|phill@builditnow.co.za|c.smith@outlook.com|karen@speaktomanager.com|john.s@youknownothing.com|tim.l@buildit.com|
+Long Street|Build Ave|Gold Ave|Tools R' Us Ave|Goodwill Drive|Candy Ave|Complaint Street|Dragon Street|Timmy Ave|
+PTA|JHB|Durban|JHB|Cape Town|PTA|JHB|DBN|PTA|
+Gauteng|Gauteng|KZN|Gauteng|North West|Gauteng|Gauteng|KZN|Gauteng|
+South Africa|South Africa|South Africa|South Africa|South Africa|South Africa|South Africa|South Africa|South Africa|
+0035|1003|8055|1055|0001|1023|0666|4568|0035|
+1|2|3|4|5|6|7|8|9|
