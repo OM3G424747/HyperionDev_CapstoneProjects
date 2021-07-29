@@ -7,10 +7,9 @@ The purpose of this app is to create a basic program for managing projects for a
 In it's current state the app allows the following funtions:
 
 1) - Create a new project
-2) - Change the due date of a project
-3) - Change the total payed towards a project to date
-4) - Update/Create a profile for an Architect, Contractor or Customer
-5) - Finalize a project
+2) - Lookup and edit projects
+3) - Update/Create a profile for an Architect, Contractor or Customer
+4) - Set the year range available when selecting a Due Date
 
 
 ## Creating or updating contact profiles
