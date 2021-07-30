@@ -35,3 +35,16 @@ The user needs to create a project before they will be able to edit projects.
 A project cannot be created without the user registering at least 1 Architect, 1 Contractor and 1 Customer to associtate with the project 
 
 After at least 1 project has been created, the options to edit the due date, total payed or finalize a project will no longer display errors when selected.
+
+
+## Looking up existing projects
+This will provide several methods of looking up a project.
+The project can either be located by reviewing the list of overdue projects, or reviewing the list on unfinalized projects.
+Lastly, the project can also be searched for using the project name, project number, cellphone number of a personnel account associated with the project or email of a personnel account associated with the project.
+
+Once a project has been selected it can then be edited, finalized/unfinalized, or have an invoice created.
+Invoices will always ask for a custom name to save the invoice as, but will have the project name filled as a default values.
+
+## Settings
+The setting menu can be used to limit the number of years available for selection from the current deadline.
+
